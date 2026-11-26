@@ -1,0 +1,22 @@
+# Build artifacts
+*.o
+*.obj
+smoke_test
+studio_headless
+player_headless
+ROXBOX_Studio
+ROXBOX_Player
+build/
+build_pc/
+build_android/
+dist/
+
+# Logs
+roxbox_*.log
+*.log
+
+# Editor/OS
+.vs/
+.idea/
+*.swp
+.DS_Store
